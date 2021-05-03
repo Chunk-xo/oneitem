@@ -100,10 +100,11 @@
 
 .circles li:nth-child(4) {
   left: 40%;
-  width: 60px;
-  height: 60px;
+  width: 64px;
+  height: 64px;
   animation-delay: 0s;
   animation-duration: 18s;
+  background-image: url("https://github.com/Chunk-xo/oneitem/blob/master/icons8-hanger-64.png?raw=true");
 }
 
 .circles li:nth-child(5) {
