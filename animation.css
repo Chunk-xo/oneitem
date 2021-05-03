@@ -69,31 +69,33 @@
   list-style: none;
   width: 20px;
   height: 20px;
-  background-image: url("https://github.com/Chunk-xo/ellie/blob/master/zayoLogo.png?raw=true");
   animation: animate 25s linear infinite;
   bottom: -150px;
 }
 
 .circles li:nth-child(1) {
   left: 25%;
-  width: 80px;
-  height: 80px;
+  width: 64px;
+  height: 64px;
   animation-delay: 0s;
+  background-image: url("https://github.com/Chunk-xo/oneitem/blob/master/icons8-box-64.png?raw=true");
 }
 
 .circles li:nth-child(2) {
   left: 10%;
-  width: 20px;
-  height: 20px;
+  width: 50px;
+  height: 50px;
   animation-delay: 2s;
   animation-duration: 12s;
+  background-image: url("https://github.com/Chunk-xo/oneitem/blob/master/icons8-laptop-48.png?raw=true");
 }
 
 .circles li:nth-child(3) {
   left: 70%;
-  width: 20px;
-  height: 20px;
+  width: 64px;
+  height: 64px;
   animation-delay: 4s;
+  background-image: url("https://github.com/Chunk-xo/oneitem/blob/master/icons8-trainers-64.png?raw=true");
 }
 
 .circles li:nth-child(4) {
