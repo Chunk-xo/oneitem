@@ -63,3 +63,13 @@ input[type=submit] {
 input[type=submit]:hover {
   background-color: #45a049;
 }
+
+.title{
+  background-color: rgba(92, 91, 91, 0.219);
+  width: 50%;
+  height: 200px;
+  margin:auto;
+  margin-top: 60px;
+  z-index: 9999;
+  font-size: 1.2em;
+}
